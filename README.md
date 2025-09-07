@@ -6,7 +6,7 @@ This repository demonstrates how SVGs can adapt to GitHub's light and dark theme
 
 The SVG below automatically changes color based on your GitHub theme preference:
 
-![Dynamic CatGrad Logo](catgrad-dynamic.svg)
+![Dynamic CatGrad Logo](catgrad.svg)
 
 - **Light mode**: Shows black text/graphics
 - **Dark mode**: Shows white text/graphics
